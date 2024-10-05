@@ -23,8 +23,8 @@ if (xp < 1000) {
 
 console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
 
-let nomesHerois = ["Guilherme", "Gustavo", "Cauly", "Jean Lucas"];
-let xpHerois = [500, 1500, 3000, 10500];
+let nomesHerois = ["Guilherme", "Gustavo", "Cauly", "Jean Lucas", "Ana Beatriz"];
+let xpHerois = [500, 1500, 3000, 10500, 4002];
 
 for (let i = 0; i < nomesHerois.length; i++) {
     nome = nomesHerois[i];
